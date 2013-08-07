@@ -8,7 +8,7 @@ IVRC２０１３参加作品「超見られる感体験装置」の公開リポ�
 
 Projection……プロジェクション班
 Content……コンテンツ作成班
-Sensing……キネクト班
+Interaction……キネクト班
 
 
 マークダウン記法とは <http://codechord.com/2012/01/readme-markdown/>
