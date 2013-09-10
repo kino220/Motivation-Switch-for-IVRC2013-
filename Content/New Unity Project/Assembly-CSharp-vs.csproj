@@ -44,6 +44,18 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Kinect\DepthWrapper.cs" />
+     <Compile Include="Assets\Kinect\DeviceOrEmulator.cs" />
+     <Compile Include="Assets\Kinect\DisplayColor.cs" />
+     <Compile Include="Assets\Kinect\DisplayDepth.cs" />
+     <Compile Include="Assets\Kinect\KinectEmulator.cs" />
+     <Compile Include="Assets\Kinect\KinectInterop.cs" />
+     <Compile Include="Assets\Kinect\KinectModelControllerV2.cs" />
+     <Compile Include="Assets\Kinect\KinectPointController.cs" />
+     <Compile Include="Assets\Kinect\KinectRecorder.cs" />
+     <Compile Include="Assets\Kinect\KinectSensor.cs" />
+     <Compile Include="Assets\Kinect\SkeletonWrapper.cs" />
+     <Compile Include="Assets\script\FtInterop.cs" />
      <Compile Include="Assets\script\eyemoveC.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
@@ -66,6 +78,9 @@
      <None Include="Assets\Standard Assets\Tessellation Shaders\BumpedSpecularDisplacement.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Kinect.Toolkit.FaceTracking">
+ <HintPath>Assets\Kinect\Microsoft.Kinect.Toolkit.FaceTracking.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

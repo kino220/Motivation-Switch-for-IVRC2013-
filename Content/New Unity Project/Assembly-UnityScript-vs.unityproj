@@ -57,7 +57,10 @@
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\ZoomCamera.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\tapcontrol.js" />
      <Compile Include="Assets\script\eyemove.js" />
+     <Compile Include="Assets\script\lookat.js" />
+     <Compile Include="Assets\script\lookat2.js" />
      <Compile Include="Assets\script\translate.js" />
+     <Compile Include="Assets\script\translateEye.js" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
@@ -79,6 +82,9 @@
      <None Include="Assets\Standard Assets\Tessellation Shaders\BumpedSpecularDisplacement.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="Microsoft.Kinect.Toolkit.FaceTracking">
+ <HintPath>Assets\Kinect\Microsoft.Kinect.Toolkit.FaceTracking.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
