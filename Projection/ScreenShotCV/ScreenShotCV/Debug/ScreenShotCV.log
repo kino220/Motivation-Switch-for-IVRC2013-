@@ -1,0 +1,17 @@
+﻿2013/09/11 18:32:17 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\ScreenShotCV\ScreenShotCV.vcxproj" (Build ターゲット)。
+     1>InitializeBuildStatus:
+         "Debug\ScreenShotCV.unsuccessfulbuild" のタッチ タスクを実行しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.lib" /MACHINE:X86 Debug\main.obj
+         ScreenShotCV.vcxproj -> C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\ScreenShotCV.unsuccessfulbuild" を削除しています。
+         "Debug\ScreenShotCV.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\ScreenShotCV\ScreenShotCV.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.65
