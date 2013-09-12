@@ -1,17 +1,13 @@
-﻿2013/09/11 18:32:17 にビルドを開始しました。
-     1>ノード 2 上のプロジェクト "C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\ScreenShotCV\ScreenShotCV.vcxproj" (Build ターゲット)。
-     1>InitializeBuildStatus:
-         "Debug\ScreenShotCV.unsuccessfulbuild" のタッチ タスクを実行しています。
-       ClCompile:
-         すべての出力が最新のものです。
+﻿2013/09/12 21:13:42 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\ScreenShotCV\ScreenShotCV.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\opencv\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
        Link:
-         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.lib" /MACHINE:X86 Debug\main.obj
-         ScreenShotCV.vcxproj -> C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.exe
-       FinalizeBuildStatus:
-         ファイル "Debug\ScreenShotCV.unsuccessfulbuild" を削除しています。
-         "Debug\ScreenShotCV.lastbuildstate" のタッチ タスクを実行しています。
-     1>プロジェクト "C:\Users\iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\ScreenShotCV\ScreenShotCV.vcxproj" (Build ターゲット) のビルドが完了しました。
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.lib" /MACHINE:X86 Debug\main.obj
+         ScreenShotCV.vcxproj -> C:\Users\Iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\Debug\ScreenShotCV.exe
+     1>プロジェクト "C:\Users\Iplab\Documents\GitHub\Motivation-Switch-for-IVRC2013-\Projection\ScreenShotCV\ScreenShotCV\ScreenShotCV.vcxproj" (Build ターゲット) のビルドが完了しました。
 
 ビルドに成功しました。
 
-経過時間 00:00:00.65
+経過時間 00:00:04.32
