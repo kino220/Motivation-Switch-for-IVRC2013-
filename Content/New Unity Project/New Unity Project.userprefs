@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\eyemove.js">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Assets\script\eyemove.js" Line="31" Column="26" />
-      <File FileName="Assets\script\translate.js" Line="1" Column="1" />
+      <File FileName="Assets\script\eyemove.js" Line="1" Column="1" />
+      <File FileName="Assets\script\eyemoveC.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
